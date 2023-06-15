@@ -1,0 +1,13 @@
+{
+  "cssImports": {
+    "/Users/arpit/Desktop/portfolio/app/layout.tsx": [
+      "/Users/arpit/Desktop/portfolio/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/arpit/Desktop/portfolio/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/arpit/Desktop/portfolio/app/page": [
+      "/Users/arpit/Desktop/portfolio/app/globals.css"
+    ]
+  }
+}
